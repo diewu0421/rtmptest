@@ -1,0 +1,6 @@
+/Users/zenglw/IntelliJIDEAProjects/RTMTDemo/app/.cxx/cmake/release/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/zenglw/IntelliJIDEAProjects/RTMTDemo/app/.cxx/cmake/release/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/zenglw/IntelliJIDEAProjects/RTMTDemo/app/.cxx/cmake/release/armeabi-v7a/CMakeFiles/native-lib.dir
+/Users/zenglw/IntelliJIDEAProjects/RTMTDemo/app/.cxx/cmake/release/armeabi-v7a/src/main/cpp/include/librtmp/CMakeFiles/rebuild_cache.dir
+/Users/zenglw/IntelliJIDEAProjects/RTMTDemo/app/.cxx/cmake/release/armeabi-v7a/src/main/cpp/include/librtmp/CMakeFiles/edit_cache.dir
+/Users/zenglw/IntelliJIDEAProjects/RTMTDemo/app/.cxx/cmake/release/armeabi-v7a/src/main/cpp/include/librtmp/CMakeFiles/rtmp.dir
