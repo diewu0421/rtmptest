@@ -1,4 +1,4 @@
-# Install script for directory: /Users/zenglw/IntelliJIDEAProjects/RTMTDemo/app/src/main/cpp/include/librtmp
+# Install script for directory: /Users/apple/IntelliJIDEAProjects/rtmptest/app/src/main/cpp/include/librtmp
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

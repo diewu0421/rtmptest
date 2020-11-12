@@ -1,32 +1,28 @@
 {
   "buildFiles": [
-    "/Users/zenglw/IntelliJIDEAProjects/rtmptest/App/src/main/cpp/include/librtmp/CMakeLists.txt",
-    "/Users/zenglw/IntelliJIDEAProjects/rtmptest/App/CMakeLists.txt",
-    "/Users/zenglw/Library/Android/sdk/android-ndk-r17c/build/cmake/android.toolchain.cmake"
+    "/Users/apple/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake",
+    "/Users/apple/IntelliJIDEAProjects/rtmptest/App/src/main/cpp/include/librtmp/CMakeLists.txt",
+    "/Users/apple/IntelliJIDEAProjects/rtmptest/App/CMakeLists.txt",
+    "/Users/apple/Library/Android/sdk/ndk-bundle/build/cmake/platforms.cmake"
   ],
   "cleanCommands": [
-    "/Users/zenglw/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/zenglw/IntelliJIDEAProjects/rtmptest/app/.cxx/cmake/debug/armeabi-v7a\" clean"
+    "/Users/apple/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/apple/IntelliJIDEAProjects/rtmptest/app/.cxx/cmake/debug/armeabi-v7a\" clean"
   ],
-  "buildTargetsCommand": "/Users/zenglw/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/zenglw/IntelliJIDEAProjects/rtmptest/app/.cxx/cmake/debug/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "buildTargetsCommand": "/Users/apple/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/apple/IntelliJIDEAProjects/rtmptest/app/.cxx/cmake/debug/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
   "libraries": {
     "rtmp-Debug-armeabi-v7a": {
       "artifactName": "rtmp",
-      "buildCommand": "/Users/zenglw/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/zenglw/IntelliJIDEAProjects/rtmptest/app/.cxx/cmake/debug/armeabi-v7a\" rtmp",
+      "buildCommand": "/Users/apple/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/apple/IntelliJIDEAProjects/rtmptest/app/.cxx/cmake/debug/armeabi-v7a\" rtmp",
       "abi": "armeabi-v7a",
-      "output": "/Users/zenglw/IntelliJIDEAProjects/rtmptest/app/.cxx/cmake/debug/armeabi-v7a/src/main/cpp/include/librtmp/librtmp.a",
+      "output": "/Users/apple/IntelliJIDEAProjects/rtmptest/app/.cxx/cmake/debug/armeabi-v7a/src/main/cpp/include/librtmp/librtmp.a",
       "runtimeFiles": []
     },
     "native-lib-Debug-armeabi-v7a": {
       "artifactName": "native-lib",
-      "buildCommand": "/Users/zenglw/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/zenglw/IntelliJIDEAProjects/rtmptest/app/.cxx/cmake/debug/armeabi-v7a\" native-lib",
+      "buildCommand": "/Users/apple/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/apple/IntelliJIDEAProjects/rtmptest/app/.cxx/cmake/debug/armeabi-v7a\" native-lib",
       "abi": "armeabi-v7a",
-      "output": "/Users/zenglw/IntelliJIDEAProjects/rtmptest/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so",
-      "runtimeFiles": [
-        "/Users/zenglw/Library/Android/sdk/android-ndk-r17c/sources/cxx-stl/llvm-libc++/libs/armeabi-v7a/libc++_static.a",
-        "/Users/zenglw/Library/Android/sdk/android-ndk-r17c/sources/cxx-stl/llvm-libc++/libs/armeabi-v7a/libc++abi.a",
-        "/Users/zenglw/Library/Android/sdk/android-ndk-r17c/sources/cxx-stl/llvm-libc++/libs/armeabi-v7a/libandroid_support.a",
-        "/Users/zenglw/Library/Android/sdk/android-ndk-r17c/sources/cxx-stl/llvm-libc++/libs/armeabi-v7a/libunwind.a"
-      ]
+      "output": "/Users/apple/IntelliJIDEAProjects/rtmptest/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so",
+      "runtimeFiles": []
     }
   }
 }
