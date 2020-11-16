@@ -21,3 +21,10 @@ Java_com_example_rtmtdemo_CameraHelper_native_1init(JNIEnv *env, jobject thiz) {
 
     packets.setReleaseCallback(releasePackets);
 }
+
+
+extern "C"
+JNIEXPORT jboolean JNICALL
+Java_com_example_rtmtdemo_ScreenLive_connect(JNIEnv *env, jobject thiz, jstring url) {
+    return JNI_FALSE;
+}
